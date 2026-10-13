@@ -1,0 +1,12 @@
+[
+  { "pattern": "recebida pelo Pix - SEU NOME COMPLETO", "category": "Salário", "field": "desc" },
+  { "pattern": "CONSTRUTORA EXEMPLO", "category": "Moradia" },
+  { "pattern": "Academia do Bairro", "category": "Academia" },
+  { "pattern": "Mercadinho da Esquina", "category": "Mercado e padaria" },
+  {
+    "pattern": "enviada pelo Pix - NOME DO PERSONAL",
+    "category": "Academia",
+    "field": "desc",
+    "onlyNegative": true
+  }
+]

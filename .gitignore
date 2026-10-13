@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+coverage/
+# dados reais nunca vão para o repositório
+regras-pessoais.json
+*.csv
+!**/fixtures/**/*.csv
+.pglite/
+.pglite-backups/
+.pglite.lock
